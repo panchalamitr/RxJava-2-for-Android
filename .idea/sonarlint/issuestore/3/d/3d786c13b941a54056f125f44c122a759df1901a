@@ -1,0 +1,16 @@
+
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(’åô×8³Ğıö.
+I
+java:S1068"'Remove this unused "TAG" private field.(ËéĞˆıÿÿÿÿ8·æá‘ö.
+i
+java:S1128"LRemove this unused import 'io.reactivex.rxjava3.core.ObservableOnSubscribe'.(­¥éà8ªçı‘ö.
+e
+java:S1128"HRemove this unused import 'io.reactivex.rxjava3.core.ObservableEmitter'.(‡“¯Ñ8ªçı‘ö.
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8—–½‘ö.
+^
+java:S1128"ARemove this unused import 'io.reactivex.rxjava3.core.Observable'.(ÔÜŒü8ªçı‘ö.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ªçı‘ö.
+M
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ªçı‘ö.
